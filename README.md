@@ -1,7 +1,7 @@
-## Exploring Pandas through Jupyter Notebooks
+# Exploring Pandas through Jupyter Notebooks
 
-# Class 2
+## Class 2
 
-# Class 3
+## Class 3
 
-# HW
+## HW
